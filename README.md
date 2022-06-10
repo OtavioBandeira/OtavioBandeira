@@ -1,4 +1,4 @@
-<h1>Salve, Salve! Eu sou o Otavio Bandeira! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Salve, Salve! Eu sou o Otavio Bandeira! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="10px"></h1>
 
 - ☕️ Desenvolvedor Front-End Jr
 
@@ -20,8 +20,8 @@
 ## 📊 &nbsp;Github Analytics
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=OtavioBandeira&show_icons=true&theme=tokyonight" />
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBandeira&layout=compact&theme=tokyonight" />
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=OtavioBandeira&show_icons=true&theme=tokyonight" />
+  <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBandeira&layout=compact&theme=tokyonight" />
  </p>
  
  <br><br>
