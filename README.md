@@ -1,4 +1,4 @@
-<h1>Salve, Salve! Eu sou o Otavio Bandeira! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="10px"></h1>
+<h1>Salve, Salve! Eu sou o Otavio Bandeira! 👋 </h1>
 
 - ☕️ Desenvolvedor Front-End Jr
 
