@@ -1,6 +1,6 @@
-<h1>Salve, Salve! Eu sou o Otavio Bandeira! 👋 </h1>
+<h1>Olá, Eu sou o Otavio Bandeira! 👋 </h1>
 
-- ☕️ Desenvolvedor Front-End Jr
+- ☕️ Estudante De Desenvolvimento Front-End 
 
 - 💻 Atualmente Desenvolvo Projetos pessoais
 
