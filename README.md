@@ -1,16 +1,14 @@
-<h1>Olá, Eu sou o Otavio Bandeira! 👋 </h1>
+<h1>Olá, Eu sou o Otavio! 👋 </h1>
 
 - ☕️ Estudante De Desenvolvimento Front-End 
 
 - 💻 Atualmente Desenvolvo Projetos pessoais
 
-- 📜 Alguns Dos Meus Projetos Pessoais que Desenvolvi: [Projeto MDL](https://otaviobandeira.github.io/MDL/)
-
 - 👨‍💻 Todos os meus projetos estão disponiveis em: [⚒ Portifólio em Construção]()
 
 <br><br>
 
-## ⚒ &nbsp;Tecnologias que domino
+## ⚒ &nbsp;Tecnologias 
   
 <img align="center" alt="HTML5"
      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,7 +17,7 @@
 
 ## 📊 &nbsp;Github Analytics
 
-<p align="left">
+<p align="center">
   <img width="430em" src="https://github-readme-stats.vercel.app/api?username=OtavioBandeira&show_icons=true&theme=tokyonight" />
   <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBandeira&layout=compact&theme=tokyonight" />
  </p>
