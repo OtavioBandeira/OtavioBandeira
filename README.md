@@ -39,7 +39,3 @@
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBandeira&layout=Demo&theme=highcontrast" />
   </p>
 </div>
-
-<br>
-
-![Snake animation](https://github.com/OtavioBandeira/OtavioBandeira/blob/output/github-contribution-grid-snake.svg)
