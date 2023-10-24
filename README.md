@@ -1,4 +1,4 @@
-<h1>Olá, Me chamo Otavio! 👋 </h1>
+<h1>Olá 👋 </h1>
 
 - 📚 Estudo Desenvolvimento Front-End
 
