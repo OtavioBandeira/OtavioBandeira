@@ -1,44 +1,26 @@
-<h1>Olá 👋 </h1>
+# 👋 Olá, eu sou o Otavio!
 
-- 📚 Estudo Desenvolvimento Front-End
+🎯 Atualmente estudando **JavaScript** e dando os primeiros passos no mundo da programação.  
+💡 Buscando evoluir todos os dias e construir projetos que me ajudem a aprender na prática.  
 
-- 👩‍💻 Atualmente Desenvolvo Projetos pessoais
+---
 
-<br>
+## 🚀 Tecnologias em aprendizado
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
-## 👨‍💼 &nbsp;Social Links
- 
-<a href="https://www.linkedin.com/in/otaviobandeira/" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>   
-<br>
+---
 
-## ⚒ &nbsp;Tecnologias e Ferramentas
-  
-<img align="center" 
-     alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img align="center"
-     alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img align="center"
-     alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="center"
-     alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img align="center"
-     alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center"
-     alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+## 📂 Projetos em Destaque
+- 🔗 [Projeto 3](https://github.com/OtavioBandeira/Multiverso-Da-Loucura)
 
-## 📖 &nbsp;Estou aprendendo
+---
 
-<img align="center"
-     alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=otaviobandeira&show_icons=true&theme=dark)
 
-<br>
+## 📈 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviobandeira&layout=compact&theme=dark)
 
-## 📊 &nbsp;Github Analytics
+---
 
-<div>
-  <p align="center">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=OtavioBandeira&show_icons=true&theme=highcontrast" />
-  </p>
-</div>
+✨ *"O aprendizado é contínuo — cada linha de código é um passo a mais."*
